@@ -1,7 +1,65 @@
-.container {
-    background-color: grey;
+.heading {
+    background-color: green;
+    width: 960px;
+    text-align:center;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+    padding-top: 10px;
+
 }
 
 .nav {
+    background-color: yellow;
+    width: 960px;
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.contact_tab {
+    background-color: pink;
+    width: 240px;
+    text-align: center;
     float: left;
+    height: 40px;
+    padding-top: 15px;
+    
+}
+
+.gallery_tab {
+    background-color: red;
+    width: 240px;
+    text-align: center;
+    float: left;
+    height: 40px;
+    padding-top: 15px;
+}
+
+.education_tab {
+    background-color: orange;
+    width: 240px;
+    text-align: center;
+    float: left;
+    height: 40px;
+    padding-top: 15px;
+}
+
+.resume_tab {
+    background-color: blue;
+    width: 240px;
+    text-align: center;
+    float: left; 
+    height: 40px;
+    padding-top: 15px;
+}
+.container {
+    background-color: grey;
+    width: 960px;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20;
+}
+
+h2 {
+    text-align: center;
 }
